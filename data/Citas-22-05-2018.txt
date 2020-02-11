@@ -1,0 +1,6 @@
+--REPORTE DE SOLICITUDES EMBAJADA DE USA
+Fecha: 2018-05-22
+
+#numPass—-----nombre-----------tipoVisa----numSolicitud
+111           Grettel Lahmann  Turismo     1000       
+1010          Julian Verllen   Turismo     1000       

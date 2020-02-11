@@ -1,0 +1,23 @@
+#SOLICITANTES
+#numPass—-nombre---------------paisOrigen-------ciudadNac-----fechaNac—-----email--------------infoad
+111       *Grettel Lahmann   *USA       *Chicago      *2017-12-30   *gth@yahoo.es       *Yves Davoine
+222       *Yves Davoine       *Francia   *Grenoble     *1995-12-30   *davoine@gmail.com    
+333       *Gabriel Salas   *Chile     *Vina         *2012-05-21   *gsal@hotmail.com   *PRE_ESCOLAR
+444       *Keiko Tamura    *Japón     *Tokio        *1975-08-13   *keiko@gmail.com
+555       *John Kidman     *Austria    *Viena        *2011-08-13    *kidm@yahoo.com     *PRIMARIA
+666	  *Pedro Alvira	   *Colombia   *Medellín*1965-02-15*pedal@hotmail.com
+777	  *Xuan Zhi'n      *China   *Manchuan*1979-10-24*xzhi@qq.com
+888	  *Robert Freedman *Inglaterra   *Cambridge    *1965-04-15   *robert.freed@gmail.com
+999	  *Veleas Miralateios  *Grecia   *Atenas   *1995-09-23   *veleas_m@yahoo.com
+1010	  *Julian Verllen  *Alemania    *Auschwitz   *2000-10-02   *julhitler@gmail.com
+1111	  *Laura Jimenez   *Ecuador  *Quito   *1998-02-19   *la-jiemenez@hotmail.com
+1212	  *Sebastian Gutierrez  *Eslovenia   *Liubliana   *2007-02-09   *sebasgut.1@yahoo.com*BACHILLERATO
+1313	  *Monica Alvarez  *Egipto   *El Cairo   *1981-10-29   *mona27@gmail.com
+1414	  *Rapel Marubios  *Filipinas   *Manila   *2008-09-27   *rubio69@hotmail.com   *UNIVERSIDAD
+1515	  *Santiago Palacios   *Hungría   *Budapest   *2009-12-15   *uribe.para@yahoo.com   *UNIVERSIDAD
+1616	  *Camilo Alvarado    *Marruecos   *Rabat   *1938-05-30   *peluzaXD@gmail.com
+1717	  *Maria Orozco    *Nicaragua   *Managua    *1941-02-01     *mp_200@hotmail.com
+1818	  *Fernando Fernandez  *Polonia   *Varsovia   *2016-02-12     *fercho_bus@yahoo.com    *Pedro Alvira
+1919	  *Anacleto Sinfrocio  *Serbia  *Belgrado    *1973-01-02    *ana_cleto@gmail.com
+2020	  *Hector Father  *Somalia   *Mogadiscio     *2017-10-04    *papa_familia@hotmail.com   *Monica Alvarez
+#FIN

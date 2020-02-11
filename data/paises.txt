@@ -1,0 +1,8 @@
+#EMBAJADAS
+#id--pais-------moneda--------------impuesto--------tasa de cambio----simbolo
+100  *USA       *dolar              *15%            *2000 	    *USD
+110  *Francia   *euro               *25%            *2550             *EUR
+120  *Chile     *peso               *5%             *325	    *CLP
+130  *Japon     *yen                *35%            *1562      	    *JPY
+140  *Australia *dolar australiano  *0%             *1850	    *AUD
+#FIN

@@ -1,0 +1,10 @@
+--REPORTE DE SOLICITUDES EMBAJADA DE USA
+Fecha: 2018-05-21
+
+#numPass—-----nombre-----------tipoVisa----numSolicitud
+1818          Fernando Fernandez Trabajo     1001       
+333           Gabriel Salas    Turismo     1000       
+111           Grettel Lahmann  Turismo     1000       
+555           John Kidman      Turismo     1000       
+1010          Julian Verllen   Turismo     1000       
+1111          Laura Jimenez    Turismo     1000       

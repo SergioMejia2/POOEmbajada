@@ -1,0 +1,7 @@
+--REPORTE DE SOLICITUDES EMBAJADA DE JAPON
+Fecha: 2018-05-23
+
+#numPass—-----nombre-----------tipoVisa----numSolicitud
+1616          Camilo Alvarado  Turismo     1000       
+1717          Maria Orozco     Turismo     1000       
+1515          Santiago Palacios Turismo     1000       
